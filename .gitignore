@@ -63,3 +63,4 @@ DerivedDataCache/*
 *.bin
 *.bin
 NanoBot/Saved/Autosaves/PackageRestoreData.json
+NanoBot/Saved/Backup

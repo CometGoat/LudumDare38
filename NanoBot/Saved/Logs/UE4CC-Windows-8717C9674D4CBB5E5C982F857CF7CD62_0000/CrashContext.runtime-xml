@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FGenericCrashContext>
+	<RuntimeProperties>
+		<CrashVersion>3</CrashVersion>
+		<CrashGUID>UE4CC-Windows-8717C9674D4CBB5E5C982F857CF7CD62_0000</CrashGUID>
+		<ProcessId>5592</ProcessId>
+		<IsInternalBuild>false</IsInternalBuild>
+		<IsPerforceBuild>false</IsPerforceBuild>
+		<IsSourceDistribution>false</IsSourceDistribution>
+		<IsEnsure>true</IsEnsure>
+		<IsAssert>false</IsAssert>
+		<CrashType>Ensure</CrashType>
+		<SecondsSinceStart>2987</SecondsSinceStart>
+		<GameName>UE4-NanoBot</GameName>
+		<ExecutableName>UE4Editor</ExecutableName>
+		<BuildConfiguration>Development</BuildConfiguration>
+		<GameSessionID />
+		<PlatformName>Windows</PlatformName>
+		<PlatformNameIni>Windows</PlatformNameIni>
+		<EngineMode>Editor</EngineMode>
+		<EngineModeEx>Vanilla</EngineModeEx>
+		<DeploymentName />
+		<EngineVersion>4.15.1-3348071+++UE4+Release-4.15</EngineVersion>
+		<CommandLine>&quot;C:\Users\CometGoat\Documents\Games\LudumDare38\LudumDare38\NanoBot\NanoBot.uproject&quot;</CommandLine>
+		<LanguageLCID>2057</LanguageLCID>
+		<AppDefaultLocale>en_GB</AppDefaultLocale>
+		<BuildVersion>++UE4+Release-4.15-CL-3348071</BuildVersion>
+		<IsUE4Release>true</IsUE4Release>
+		<UserName>CometGoat</UserName>
+		<BaseDir>D:/UE_4.15/Engine/Binaries/Win64/</BaseDir>
+		<RootDir>D:/UE_4.15/</RootDir>
+		<MachineId>D5CA098A4C197713E9E91D939E38DC1A</MachineId>
+		<LoginId>d5ca098a4c197713e9e91d939e38dc1a</LoginId>
+		<EpicAccountId>62709d8699fd4318b093534614e444a8</EpicAccountId>
+		<CallStack />
+		<SourceContext />
+		<UserDescription>Sent in the unattended mode</UserDescription>
+		<UserActivityHint>Layout=&quot;AssetEditorToolkit_Toolbar&quot; Label=&quot;Toolbar&quot; Content=SBorder</UserActivityHint>
+		<ErrorMessage>Ensure condition failed: Cast&lt;APawn&gt;(NewUpdatedComponent-&gt;GetOwner()) [File:D:\Build\++UE4+Release-4.15+Compile\Sync\Engine\Source\Runtime\Engine\Private\Components\PawnMovementComponent.cpp] [Line: 16] &nl;FloatingPawnMovement must update a component owned by a Pawn&nl;</ErrorMessage>
+		<CrashDumpMode>0</CrashDumpMode>
+		<CrashReporterMessage />
+		<Misc.NumberOfCores>4</Misc.NumberOfCores>
+		<Misc.NumberOfCoresIncludingHyperthreads>8</Misc.NumberOfCoresIncludingHyperthreads>
+		<Misc.Is64bitOperatingSystem>1</Misc.Is64bitOperatingSystem>
+		<Misc.CPUVendor>GenuineIntel</Misc.CPUVendor>
+		<Misc.CPUBrand>Intel(R) Core(TM) i7-6700HQ CPU @ 2.60GHz</Misc.CPUBrand>
+		<Misc.PrimaryGPUBrand>Intel(R) HD Graphics 530</Misc.PrimaryGPUBrand>
+		<Misc.OSVersionMajor>Windows 10</Misc.OSVersionMajor>
+		<Misc.OSVersionMinor />
+		<MemoryStats.TotalPhysical>17059336192</MemoryStats.TotalPhysical>
+		<MemoryStats.TotalVirtual>140737488224256</MemoryStats.TotalVirtual>
+		<MemoryStats.PageSize>65536</MemoryStats.PageSize>
+		<MemoryStats.TotalPhysicalGB>16</MemoryStats.TotalPhysicalGB>
+		<MemoryStats.AvailablePhysical>10750930944</MemoryStats.AvailablePhysical>
+		<MemoryStats.AvailableVirtual>140734239621120</MemoryStats.AvailableVirtual>
+		<MemoryStats.UsedPhysical>1469497344</MemoryStats.UsedPhysical>
+		<MemoryStats.PeakUsedPhysical>1469497344</MemoryStats.PeakUsedPhysical>
+		<MemoryStats.UsedVirtual>2420056064</MemoryStats.UsedVirtual>
+		<MemoryStats.PeakUsedVirtual>2481643520</MemoryStats.PeakUsedVirtual>
+		<MemoryStats.bIsOOM>0</MemoryStats.bIsOOM>
+		<MemoryStats.OOMAllocationSize>0</MemoryStats.OOMAllocationSize>
+		<MemoryStats.OOMAllocationAlignment>0</MemoryStats.OOMAllocationAlignment>
+		<TimeOfCrash>636284591891770000</TimeOfCrash>
+		<bAllowToBeContacted>1</bAllowToBeContacted>
+		<PlatformFullName>Win64 [Windows 10  64b]</PlatformFullName>
+		<CrashReportClientVersion>1.0</CrashReportClientVersion>
+	</RuntimeProperties>
+	<PlatformProperties>
+		<PlatformIsRunningWindows>1</PlatformIsRunningWindows>
+		<PlatformCallbackResult>0</PlatformCallbackResult>
+	</PlatformProperties>
+</FGenericCrashContext>
